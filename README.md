@@ -7,7 +7,7 @@
 
 **Telegram Bot:** [https://t.me/terasop_bot](https://telegram.openinapp.co/terabox-bot)
 
-![Visitors](https://api.visitorbadge.io/api/combined?path&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/TeraboxVideoPlayer/Terabox-Video-Player-Downloader&countColor=%23263759)
 
 **1st Terabox online video player download & Terabox link video player online**
 
