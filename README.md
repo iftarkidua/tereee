@@ -5,7 +5,7 @@
 
 **Website:** [https://teraboxdownloader.co.in/](https://teraboxdownloader.co.in/)
 
-**Telegram Bot:** [https://t.me/terasop_bot](https://telegram.openinapp.co/terabox-bot)
+**Telegram Bot:** [https://telegram.openinapp.co/terabox-bot](https://telegram.openinapp.co/terabox-bot)
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/TeraboxVideoPlayer/Terabox-Video-Player-Downloader&countColor=%23263759)
 
