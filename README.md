@@ -3,7 +3,6 @@
 
 **Download and Play Terabox Videos Directly**
 
-**Website:** [https://teraboxdownloader.co.in/](https://teraboxdownloader.co.in/)
 
 **Telegram Bot:** [https://telegram.openinapp.co/terabox-bot](https://telegram.openinapp.co/terabox-bot)
 
